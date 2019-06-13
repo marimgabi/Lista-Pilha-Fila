@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1556214539 source:c:\users\guilh\documents\algoritmo\lista-pilha\main.cpp
+	<iostream>
+	"TLista.h"
+
+1556214539 c:\users\guilh\documents\algoritmo\lista-pilha\tlista.h
+	<iostream>
+	<string>
+	"TNo.h"
+
+1556214539 c:\users\guilh\documents\algoritmo\lista-pilha\tno.h
+
+1560403491 source:d:\cc\ed 2019\lista-pilha\main.cpp
+	<iostream>
+	"TLista.h"
+	"TPilha.h"
+	"TFila.h"
+
+1556225340 d:\cc\ed 2019\lista-pilha\tlista.h
+	<iostream>
+	<string>
+	"TNo.h"
+
+1556225340 d:\cc\ed 2019\lista-pilha\tno.h
+
+1560399415 d:\cc\ed 2019\lista-pilha\tpilha.h
+	"TLista.h"
+
+1560403604 d:\cc\ed 2019\lista-pilha\tfila.h
+	"TLista.h"
+
